@@ -7,7 +7,7 @@ This repository contains a RESTful API built using FastAPI for performing zero-s
 
    ```bash
    git clone https://github.com/socode-marcelo/zero-shot-classifier-rest-api.git
-   cd your-repository
+   cd zero-shot-classifier-rest-api
    ```
 
 2. Install the required dependencies:
